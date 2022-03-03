@@ -7,4 +7,5 @@ if ($resultado){
 }else{
     echo 'Ha ocurrido un error...';
 }
-echo '<br>';
+$conexion->close();
+

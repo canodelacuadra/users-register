@@ -18,7 +18,7 @@
         <h1>Users Register:</h1>
         <br>
 
-        <?php include 'controllers/users-list-controller.php' ?>
+        <?php include 'users-list-controller.php' ?>
 
     </div>
 
